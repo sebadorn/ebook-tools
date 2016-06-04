@@ -1,0 +1,8 @@
+epub
+tumblr/covers
+tumblr/downloads
+tumblr/pytumblr
+
+*.epub
+chapters.html
+keys.txt
