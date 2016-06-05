@@ -1,8 +1,9 @@
+covers
 epub
-tumblr/covers
 tumblr/downloads
 tumblr/pytumblr
 
 *.epub
+*.sublime-*
 chapters.html
 keys.txt
